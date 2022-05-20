@@ -1,0 +1,44 @@
+.class1 {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color:crimson;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color:aquamarine;
+}
+
+h2{
+  font-size: 6rem;
+  color:aquamarine;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
